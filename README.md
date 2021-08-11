@@ -1,2 +1,2 @@
 # Medical-Image
-Several codes for medical image analysis
+Several codes for medical images analysis
